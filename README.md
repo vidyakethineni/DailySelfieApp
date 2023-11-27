@@ -23,7 +23,7 @@ Potential extensions include:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Project9 Video Walkthrough.mov' title='Project9 Video Walkthrough' width='50%' alt='Project9 Video Walkthrough' />
+<img src='Project9 Video Walkthrough.gif' title='Project9 Video Walkthrough' width='50%' alt='Project9 Video Walkthrough' />
 
 GIF created with [EzGif](https://ezgif.com/) 
 
